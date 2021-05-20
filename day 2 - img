@@ -1,1 +1,32 @@
+.img{
+    position: relative;
+    background-image: url(https://www.google.com/imgres?imgurl=http%3A%2F%2F
+      img.danawa.com%2Fprod_img%2F500000%2F359%2F124%2Fimg%2F4124359_1.jpg%3Fshrink
+      %3D360%3A360%26_v%3D20210112165942&imgrefurl=http%3A%2F%2Fprod.danawa.com%2Finfo
+      %2F%3Fpcode%3D4124359&tbnid=aZ8keTRlZkQexM&vet=12ahUKEwjdicGev9jwAhXxzYsBHWEuBz0QMyg
+      DegUIARDlAQ..i&doci
+      d=TYf74CbKSAbZqM&w=360&h=360&q=%EC%95%84%EB%A0%B9&ved=2ahUKEwj
+      dicGev9jwAhXxzYsBHWEuBz0QMygDegUIARDlAQ);
+    height: 100vh;
+    background-size: cover;
+  }
+
+  .img-cover{
+     position: absolute;
+     height: 50%;
+     width: 50%;
+     background-color: rgba(0, 0, 0, 0.7);
+     z-index:1;
+  }
+
+  .img .content{
+     position: absolute;
+     top:25%;
+     left:25%;
+     transform: translate(-50%, -50%);
+     font-size:5rem;
+     color: white;
+     z-index: 2;
+     text-align: center;
+  }
 
