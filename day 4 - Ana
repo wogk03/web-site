@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="ana.css"  rel="stylesheet" type="text/css">
+
+      <style>
+      p{
+        margin : 5px;
+      }
+      li {
+        font-size : 19px;
+      }
+      </style>
+  </head>
+
+  <body>
+  <div class="ana"> 무산소 운동(Anaerobic exercise)</div>
+  <ol><strong><li> 무산소 운동이란</li></strong>
+  <p>혈당을 분해해서 에너지원으로 사용하는 운동, 무산소 운동은 힘이 들고 숨이차서 오래 지속할 수 없는 형태의 운동</p>
+  <strong><li> 무산소 운동의 효과</li></strong>
+  <p> 근육량을 키워주며 기초대사량을 늘려 살이찌지 않는 체질로 만들어 줍니다 </p>
+  <strong><li> 무산소 운동의 특징 </li></strong>
+  <p> 망막질환이나 고혈압 등 혈관 합병증이 있으신 분들은 무산소 운동으로 인해 혈압이 급격하게 올라갈 수 있기 때문에 피하시거나 강도에 맞는 운동을 해주시는게 좋습니다 </p>
+  </ol>
+  <table border="2">
+    <tr bgcolor="green" align ="center">
+    <p><td colspan = "6" span style= "color:white" width = "2000"   ><a href="부위.html">부위<a></td></p>
+  <tr align = "center">
+    <td>전신</td>
+    <td>어깨</td>
+    <td>가슴</td>
+    <td>복근 </td>
+    <td>삼두</td>
+    <td>이두</td>
+  </tr>
+  <tr align = "center">
+    <td>전완</td>
+    <td>엉덩이</td>
+    <td>허벅지</td>
+    <td>종아리 </td>
+    <td>코어</td>
+    <td>하체</td>
+  </tr>
+
+
+    </body>
+
+</html>
