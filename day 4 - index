@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang = "ko">
+  <head>
+    <meta charset="utf-8">
+      <title>midas</title>
+    <link href="top.css"  rel="stylesheet" type="text/css"/>
+
+  <style>
+a{
+  font-size: 30px;
+}
+     </style>
+  </head>
+  <body>
+    <div class="top">Oline Gym </div>
+
+
+      <a href="Ana.html">Anaerobic exercise</a>
+      <a href="Car.html">Cardiovascular exercise</a>
+      <br><img src="gym.jpg" width="75%"></br>
+ </body>
+</html>
