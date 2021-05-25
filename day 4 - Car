@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="car.css"  rel="stylesheet" type="text/css"/>
+    <style>
+    p{
+      margin : 5px;
+    }
+    li {
+      font-size : 19px;
+    }
+      </style>
+  </head>
+
+  <body>
+  <div class="car">유산소 운동(Cardiovascular exercise)</div>
+  <ol><strong><li>유산소 운동이란</li></strong>
+  <p>운동시 발생하는 에너지 소비가 적절하고 충분한 산소의 공급을 조건으로 시행되는 신체의 지속적인 운동 부하를 의미한다.
+     따라서 유산소 운동의 주요한 요건은 숨이 가쁘지 않는 상태에서 신체가 부하를 받게되는 균형있는 호흡(유기호흡)을 통해 얻는 운동방식이다.</p>
+  <strong><li> 유산소 운동의 효과</li></strong>
+  <p> 근육량을 키워주며 기초대사량을 늘려 살이찌지 않는 체질로 만들어 줍니다 </p>
+  <p> 지방산을 주된 에너지로 사용할 수 있다</p>
+  <p> 근지구력이 향상되고 체지방률을 낮춰준다.</p>
+  <strong><li> 유산 운동의 특징 </li></strong>
+  <p> 나이가 들어서도 할 수 있는 운동이 </p>
+  <p> 무산소 운동에 비하여 안전하다 </p>
+  </ol>
+
+  <table border="2">
+    <tr bgcolor="green" align ="center">
+    <p><td colspan = "6" span style="color:white" width = "2000" > 종류 </td></p>
+  <tr align = "center">
+    <td>걷기</td>
+    <td>달리기</td>
+    <td>자전거</td>
+    <td>수영</td>
+    <td>줄넘기</td>
+    <td>등산</td>
+  </tr>
+  <tr align = "center">
+    <td>배드민턴</td>
+    <td>테니스</td>
+    <td>탁구</td>
+    <td>축구 </td>
+    <td>농구</td>
+    <td>스키</td>
+  </tr>
+
+    </body>
+
+</html>
