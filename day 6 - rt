@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="rt.css"  rel="stylesheet" type="text/css">
+  <style>
+    p{
+      margin : 0px;
+      font-size : 13px;
+    }
+    </style>
+</head>
+<body>
+  <div class="rt1">러시안 트위스트(Russian Twist)</div>
+
+  <h3> 러시안 트위스트는 상체를 양쪽으로 비트는 동작을 통해 복부 전체에 자극을 주는 운동입니다.</h3>
+  <h3> 복부의 볼록 튀어나온 체지방의 연소에도 도움을 주지만, 체지방의 연소효과 보다 복부의 근육 발달에 더 효과적입니다. </h3>
+  <h3> 중앙의 복부와 옆구리에 있는 복사근 근육을 발달 시켜 탄탄하게 만들어주는 효과가 있습니다.</h3>
+
+  <br>첫번째 동작, 앉은 자세에서 무릎은 약간 굽혀 발 끝만 땅에 붙여줍니다. </br>
+  <div><img src="단색.png" width="150"> image</div>
+
+  <br>두번째 동작, 상체는 자연스럽게 약간 뒤로 팔은 가지런히 모아 뻗거나 가슴에 붙입니다. </br>
+  <div><img src="단색.png" width="150">image</div>
+
+  <br >세번째 동작, 왼쪽으로 상체를 최대한 비튼 다음 잠깐 정지했다가 곧바로 몸을 오른쪽으로 회전 시켜줍니다. </br>
+  <p> 복부의 힘이 약한 상태에서 허리만 과하게 비틀게 되면 허리에 무리가 갈 수 있으므로 훈련을 통해 점차 늘려나갑니다.</p>
+  <div><img src="단색.png" width="150">image</div>
+
+  <br>네번째 동작, 위 동작들의 자극이 부족하다면 발을 땅에서 대고 실시하거나 손에 무게가 나가는 물건을 들어 동작을 시행합니다. </br>
+  <div><img src="단색.png" width="150">image</div>
+
+
+  </body>
+</html>
