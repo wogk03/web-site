@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="rc.css"  rel="stylesheet" type="text/css">
+  <style>
+    p{
+      margin : 0px;
+      font-size : 13px;
+    }
+    </style>
+</head>
+<body>
+  <div class="rc1">리버스 크런치(Reverse crunch)</div>
+
+  <h3> 리버스 크런치는 복직근에 다 타격을 주는 복근 운동입니다.</h3>
+    <h3> 상하복부 전체에 자극을 주며 특히 상복부에 강한 수축을 주어 복근의 선명한 모양을 단기간에 만들기 위한 운동입니다.</h3>
+
+    <br>첫번째 동작, 바닥에 누워 무릎을 구부리며 발바닥을 땅에 붙여줍니다.</br>
+    <div><img src="단색.png" width="150"> image</div>
+
+    <br>두번째 동작, 복근의 힘으로 골반을 말아 올리며 무릎을 가슴쪽으로 당기며 호흡을 내쉽니다. </br>
+    <p> 이때 복근만으로는 골발을 올리기 힘들기에 다리를 들어 반동을 이용해 동작을 도와줍니다.</p>
+    <div><img src="단색.png" width="150">image</div>
+
+    <br >세번째 동작, 그 상태로 1~3초 버티다가 천천히 다리를 내리면서 호흡을 들어쉽니다. </br>
+    <div><img src="단색.png" width="150">image</div>
+
+    <h4> 이 운동에 숙력이 됐다면 높이가 있는 디클라인 벤치에서 운동을 시행하는 방법도 있습니다.</h4>
+    <div><img src="단색.png" width="150">image</div>
+
+
+
+  </body>
+</html>
