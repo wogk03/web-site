@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    div{
+      margin : 0px;
+      text-align: center;
+      font-size: 50px;
+      background-color : pink;
+      color : white;
+    }
+    </style>
+</head>
+<body>
+  <div> 복근 운동(Abdominal Workout)</div>
+
+
+  <table border="2">
+    <tr bgcolor="green" align ="center">
+    <p><td colspan = "4" span style="color:white" width = "2000" height = "60" > 종류 </td></p>
+  <tr align = "center" height = "60">
+    <td><a href = "rt.html">러시안 트위스트(Russian Twist) </a></td>
+    <td><a href = "ch.html">크런치(Crunch)</a></td>
+    <td><a href = "rc.html">리버스 크런치(Reverse crunch)</a></td>
+    <td><a href = "fdr.html">프론트 덤벨 레이즈(front dumbbell raise)</a></td>
+
+
+  </tr>
+
+
+  </body>
+</html>
