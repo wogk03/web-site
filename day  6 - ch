@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="ch.css"  rel="stylesheet" type="text/css">
+  <style>
+    p{
+      margin : 0px;
+      font-size : 13px;
+    }
+    </style>
+</head>
+<body>
+  <div class="ch1">크런치(Crunch)</div>
+
+    <h3> 크런치는 대표적인 복근 운동입니다. 윗몸 일으키기와 비슷해 보이지만 상체를 바닥에서 완전히 들어 올리지 않는 차이점이 있습니다.</h3>
+    <h3> 비교적 다른 운동보다 쉬우면서도 상복부에 좀 더 집중적이고 강한 운동 효과를 얻을 수 있습니다.</h3>
+
+    <br>첫번째 동작, 바닥에 등을 대고 누워 다리는 의자 위에 올리거나 무릎을 굽혀 발바닥을 바닥에 붙입니다.</br>
+    <div><img src="단색.png" width="150"> image</div>
+
+    <br>두번째 동작, 두 손은 가슴에 올리거나 머리 뒤에 댑니다.</br>
+    <div><img src="단색.png" width="150">image</div>
+
+    <br >세번째 동작, 등의 아랫부분을 바닥에 떼지 말고 견갑골을 바닥에서 들어올린다는 느낌으로 복부를 강하게 쥐어짭니다. </br>
+    <div><img src="단색.png" width="150">image</div>
+
+    <br>네번째 동작, 상체를 일으키기 전에 숨을 들이마시고, 일으키면서 숨을 내쉬고 최고점에서 완전히 숨을 뱉습니다.</br>
+    <div><img src="단색.png" width="150">image</div>
+
+    <br>다섯번째 동작, 시작 자세로 내려오면서 숨을 들이 마쉽니다.</br>
+    <div><img src="단색.png" width="150">image</div>
+
+
+
+  </body>
+</html>
